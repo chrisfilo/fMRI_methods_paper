@@ -1,5 +1,6 @@
 abstract.tex
 introduction.tex
+NOTES.md
 materials_and_methods.tex
 results.tex
 discussion.tex
